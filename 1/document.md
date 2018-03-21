@@ -28,11 +28,24 @@ In the research field of Computer Supported Collaborative Work, several heuristi
 
 ### Potential Communication Platforms:
 
-#### [![Discourse][discourse]](https://www.discourse.org/)  
+#### Discourse
+[discourse.org](https://www.discourse.org/)  
 Discourse is an example of an *asynchronous distributed* communication platform which lends itself out of band communication. It operates similar to a forum but lends itself to extensibility. It has a plugin framework that is actively being expanded and developed. It has search functionality and highly usable clean user interface.
 
-#### [![Slack][slack]](https://slack.com/)  
+ - Supports [*asynchronous distributed*](APPENDIX A: Type of Communication) communication which carries high *information richness* and lends itself to collaborative long form discussion.
+ - Provide a place for new members to integrate into the community. This could serve as an *orientation program* designed to introduce new members to their responsibilities and privileges, other members of the club, and the organization as a whole.
+ - Provide a place where members can contact each other without using the global mailing list.
+ - Provide a place to facilitate *multidirectional communication* and promote *participative leadership*.
+ - High extensibility means that the use cases for the platform can evolve and be leveraged without much effort.
+
+#### Slack
+[slack.com](https://slack.com/)  
 Slack is an example of a *synchronous distributed* communication platform which lends itself to realtime communication. It solves a different problem then discourse and is only available as a service without a self hosting option however there are equivalent platforms that do support self hosting.
+
+- Supports [*synchronous distributed*](APPENDIX A: Type of Communication) communication which carries high *information richness* and lends itself to high-frequency group chat providing quick answer collective intelligence.
+- Provides instant messaging without disclosing personal information.
+- Provides message records for conversations
+- Plugin support means that the use cases for the platform can evolve and be integrated with other platforms without much effort.
 
 #### Google Groups
 Google Groups like Discourse is also an example of an *asynchronous distributed* communication platform. Unlike Discourse, Google Groups is not conducive to searching old conversations and conversations easily become disjoint. Conversations also lack visual queues to indicate the importance of a thread and no ability to pin threads
