@@ -28,14 +28,10 @@ In the research field of Computer Supported Collaborative Work, several heuristi
 
 ### Potential Communication Platforms:
 
-#### Discourse
-![Discourse Logo][discourse-image]
-[discourse.org](https://www.discourse.org/)  
+#### [![Discourse][discourse]](https://www.discourse.org/)  
 Discourse is an example of an *asynchronous distributed* communication platform which lends itself out of band communication. It operates similar to a forum but lends itself to extensibility. It has a plugin framework that is actively being expanded and developed. It has search functionality and highly usable clean user interface.
 
-#### Slack
-![Slack Logo][slack-image]
-[slack.com](https://slack.com/)  
+#### [![Slack][slack]](https://slack.com/)  
 Slack is an example of a *synchronous distributed* communication platform which lends itself to realtime communication. It solves a different problem then discourse and is only available as a service without a self hosting option however there are equivalent platforms that do support self hosting.
 
 #### Google Groups
@@ -163,15 +159,15 @@ APPENDIX B: Feature/Cost Matrix
 
 
 
-[google-groups]:assets/google-groups.png { height=32px }
-[slack]:assets/slack.png { height=32px }
-[flarum]:assets/flarum.png { height=32px }
-[nodebb]:assets/nodebb.png { height=32px }
-[discourse]:assets/discourse.png { height=32px }
-[stride]:assets/stride.png { height=32px }
-[hipchat]:assets/hipchat.png { height=32px }
-[zulip]:assets/zulip.png { height=32px }
-[zulip2]:assets/zulip2.png { height=32px }
-[rocketchat]:assets/rocketchat.png { height=32px }
-[matrix]:assets/matrix.png { height=32px }
-[mattermost]:assets/mattermost.png { height=32px }
+[google-groups]:assets/google-groups.png
+[slack]:assets/slack.png
+[flarum]:assets/flarum.png
+[nodebb]:assets/nodebb.png
+[discourse]:assets/discourse.png
+[stride]:assets/stride.png
+[hipchat]:assets/hipchat.png
+[zulip]:assets/zulip.png
+[zulip2]:assets/zulip2.png
+[rocketchat]:assets/rocketchat.png
+[matrix]:assets/matrix.png
+[mattermost]:assets/mattermost.png
